@@ -1,91 +1,113 @@
-Bráulio Roberto Rangel da Silva
+# Bráulio Roberto Rangel da Silva
 
-Dados públicos · Automação · Observatórios digitais · Pesquisa aplicada · Produtos com IA
+**Python · Dados públicos · Automação · Observatórios digitais · Produtos com IA**
 
-Sou pesquisador e desenvolvedor com atuação na interseção entre tecnologia, comunicação, dados públicos e produção científica. Trabalho na construção de pipelines, dashboards, observatórios digitais, sistemas de automação e produtos baseados em dados, com foco em transformar informação dispersa em inteligência prática para pesquisa, gestão, comunicação e tomada de decisão.
+Desenvolvo soluções que transformam dados públicos, informações dispersas e processos manuais em sistemas úteis para pesquisa, gestão, comunicação e tomada de decisão.
 
-Minha trajetória combina Comunicação, Gestão, Análise e Desenvolvimento de Sistemas e Mídias Digitais. Essa formação híbrida orienta meus projetos: não desenvolvo apenas código, mas soluções com propósito, contexto institucional e aplicação real.
+Minha atuação combina tecnologia, comunicação, análise de dados e pesquisa aplicada. Trabalho com pipelines em Python, dashboards analíticos, automações, integração de APIs e produtos digitais orientados por dados.
 
-Áreas de atuação
-Engenharia e análise de dados públicos
-Observatórios digitais e dashboards analíticos
-Automação de coleta, tratamento e publicação de informações
-Pesquisa aplicada em educação, audiovisual, comunicação e políticas públicas
-Produtos digitais com IA, APIs e integração de dados
-Visualização de dados para tomada de decisão institucional
-Comunicação digital, memória audiovisual e circulação em plataformas
-Projetos em destaque
-OSC Financiamento Brasil
+---
 
-Pipeline e dashboard para análise do financiamento das Organizações da Sociedade Civil no Brasil. O projeto integra bases públicas, organiza indicadores territoriais e temáticos e oferece uma camada analítica para pesquisa, diagnóstico institucional e políticas públicas.
+## O que eu construo
 
-Stack: Python, pandas, Streamlit, Plotly, dados públicos, pipeline reprodutível.
+- Pipelines para coleta, tratamento e integração de dados públicos
+- Dashboards e observatórios digitais com Streamlit
+- Sistemas de automação para pesquisa, comunicação e publicação editorial
+- Produtos digitais com IA, APIs e modelos de negócio escaláveis
+- Ferramentas para análise institucional, educacional, audiovisual e científica
 
-Memória Audiovisual em Rede
+---
 
-Observatório digital para mapear, monitorar e analisar a presença pública de acervos audiovisuais em plataformas, arquivos e agregadores digitais. O projeto conecta comunicação, memória, patrimônio audiovisual, circulação digital e análise de plataformas.
+## Projetos principais
 
-Stack: Python, Streamlit, scraping responsável, pipelines, análise de acervos digitais.
+### OSC Financiamento Brasil
 
-Observatório Educacional da Paraíba
+Pipeline e dashboard para análise do financiamento das Organizações da Sociedade Civil no Brasil.
 
-Projeto voltado à análise da demanda por ensino superior na Paraíba a partir de dados do SiSU, com foco em municípios com presença do IFPB. Busca apoiar estudos sobre interiorização, mobilidade educacional, aderência territorial e planejamento institucional.
+O projeto integra bases públicas, organiza indicadores territoriais e temáticos e oferece uma camada analítica para pesquisa, políticas públicas e inteligência institucional.
 
-Stack: Python, pandas, Streamlit, dados educacionais, visualização analítica.
+**Tecnologias:** Python, pandas, Streamlit, Plotly, dados públicos, pipelines reprodutíveis.
 
-Fomenta Pesquisa
+---
 
-Sistema de monitoramento automatizado de editais, bolsas e chamadas de pesquisa, com coleta em fontes públicas, organização de oportunidades, fila editorial e apoio à publicação em redes sociais.
+### Memória Audiovisual em Rede
 
-Stack: Python, GitHub Actions, automação editorial, APIs, geração de cards, fluxo de publicação.
+Observatório digital para mapear e analisar a presença pública de acervos audiovisuais em plataformas, arquivos e agregadores digitais.
 
-Projetos em desenvolvimento
-Tripset
+O projeto conecta comunicação, memória, patrimônio audiovisual, circulação digital e análise de plataformas.
 
-Plataforma de turismo cinematográfico que conecta filmes, séries e destinos reais. O projeto combina curadoria audiovisual, dados de obras, destinos, links afiliados e automação de conteúdo para transformar narrativas audiovisuais em experiências de viagem.
+**Tecnologias:** Python, Streamlit, scraping responsável, pipelines, análise de acervos digitais.
 
-Submeta Aí
+---
 
-Produto em desenvolvimento para apoiar pesquisadores na submissão de artigos científicos, com análise de aderência às diretrizes dos periódicos, padrões editoriais, escopo da revista e pontos de melhoria antes da submissão.
+### Observatório Educacional da Paraíba
 
-Laboratórios de automação e estratégia quantitativa
+Projeto para análise da demanda por ensino superior na Paraíba a partir de dados do SiSU, com foco em municípios com presença do IFPB.
 
-Projetos experimentais envolvendo backtesting, automação, APIs financeiras, ambientes de teste, logs estruturados e avaliação de estratégias. O foco é engenharia de dados temporais, automação robusta e controle de execução, não recomendação financeira.
+A proposta apoia estudos sobre interiorização, mobilidade educacional, aderência territorial e planejamento institucional.
 
-Tecnologias e ferramentas
+**Tecnologias:** Python, pandas, Streamlit, análise educacional, visualização de dados.
 
-Linguagens e dados
-Python · pandas · NumPy · SQL · CSV/Parquet · APIs · dados públicos
+---
 
-Dashboards e visualização
-Streamlit · Plotly · Matplotlib · dashboards analíticos · indicadores territoriais
+### Fomenta Pesquisa
 
-Automação e integração
-GitHub Actions · scraping responsável · automação editorial · webhooks · pipelines de dados
+Sistema de monitoramento automatizado de editais, bolsas e chamadas de pesquisa.
 
-Web e produto
-Next.js · Vercel · integração com APIs · produtos digitais · prototipagem SaaS
+O projeto coleta oportunidades em fontes públicas, organiza dados, gera fila editorial e apoia fluxos de publicação em redes sociais.
 
-Pesquisa e documentação
-metodologia científica · reprodutibilidade · DOI · documentação técnica · análise institucional
+**Tecnologias:** Python, GitHub Actions, automação editorial, APIs, geração de cards e publicação assistida.
 
-O que meus projetos demonstram
-Capacidade de transformar problemas reais em sistemas funcionais
-Organização de dados públicos complexos em produtos analíticos compreensíveis
-Integração entre pesquisa acadêmica, tecnologia e aplicação institucional
-Construção de pipelines reprodutíveis e dashboards de apoio à decisão
-Visão de produto aplicada a educação, comunicação, audiovisual e ciência
-Uso de automação para reduzir trabalho repetitivo e ampliar escala operacional
-Linha de trabalho atual
+---
 
-Atualmente concentro meus projetos em três frentes principais:
+## Projetos de produto
 
-Observatórios digitais e dados públicos
-Desenvolvimento de bases, pipelines e dashboards para análise de temas sociais, educacionais, culturais e institucionais.
-Automação aplicada à pesquisa e comunicação
-Sistemas que coletam, classificam, organizam e publicam informações relevantes para pesquisadores, instituições e projetos editoriais.
-Produtos digitais com IA e dados
-Prototipagem de soluções que combinam inteligência artificial, APIs, curadoria e modelos de negócio escaláveis.
-Contato
-GitHub: @brauliorrs
-E-mail: brauliorrs@gmail.com
+### Tripset
+
+Plataforma de turismo cinematográfico que conecta filmes, séries e destinos reais.
+
+O projeto combina curadoria audiovisual, dados de obras, destinos turísticos, links afiliados e automação de conteúdo.
+
+---
+
+### Submeta Aí
+
+Produto em desenvolvimento para apoiar pesquisadores na submissão de artigos científicos.
+
+A proposta envolve análise de aderência a periódicos, leitura de diretrizes editoriais, avaliação de escopo e identificação de melhorias antes da submissão.
+
+---
+
+## Stack principal
+
+**Dados e backend**  
+Python · pandas · NumPy · SQL · APIs · CSV · Parquet
+
+**Dashboards e visualização**  
+Streamlit · Plotly · Matplotlib · indicadores analíticos
+
+**Automação**  
+GitHub Actions · webhooks · scraping responsável · automação editorial · pipelines
+
+**Produto e web**  
+Next.js · Vercel · integração com APIs · prototipagem SaaS · produtos digitais
+
+**Pesquisa aplicada**  
+dados públicos · metodologia científica · reprodutibilidade · DOI · documentação técnica
+
+---
+
+## O que meus projetos demonstram
+
+- Capacidade de transformar problemas reais em sistemas funcionais
+- Domínio de dados públicos e automação com Python
+- Construção de dashboards e observatórios digitais
+- Integração entre pesquisa, tecnologia, comunicação e produto
+- Visão estratégica para criar soluções úteis, documentadas e escaláveis
+
+---
+
+## Contato
+
+- GitHub: [@brauliorrs](https://github.com/brauliorrs)
+- E-mail: brauliorrs@gmail.com
