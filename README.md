@@ -10,11 +10,11 @@ Minha atuação combina tecnologia, comunicação, análise de dados e pesquisa 
 
 ## O que eu construo
 
-- Pipelines para coleta, tratamento e integração de dados públicos
-- Dashboards e observatórios digitais com Streamlit
-- Sistemas de automação para pesquisa, comunicação e publicação editorial
-- Produtos digitais com IA, APIs e modelos de negócio escaláveis
-- Ferramentas para análise institucional, educacional, audiovisual e científica
+* Pipelines para coleta, tratamento e integração de dados públicos
+* Dashboards e observatórios digitais com Streamlit
+* Sistemas de automação para pesquisa, comunicação e publicação editorial
+* Produtos digitais com IA, APIs e modelos de negócio escaláveis
+* Ferramentas para análise institucional, educacional, audiovisual e científica
 
 ---
 
@@ -58,36 +58,65 @@ O projeto coleta oportunidades em fontes públicas, organiza dados, gera fila ed
 
 **Tecnologias:** Python, GitHub Actions, automação editorial, APIs, geração de cards e publicação assistida.
 
+---
+
+## Projetos de produto
+
+### Tripset
+
+Plataforma de turismo cinematográfico que conecta filmes, séries e destinos reais.
+
+O projeto combina curadoria audiovisual, dados de obras, destinos turísticos, links afiliados e automação de conteúdo.
+
+**Status:** projeto privado / em desenvolvimento.
+
+---
+
+### Submeta Aí
+
+Produto em desenvolvimento para apoiar pesquisadores na submissão de artigos científicos.
+
+A proposta envolve análise de aderência a periódicos, leitura de diretrizes editoriais, avaliação de escopo e identificação de melhorias antes da submissão.
+
+**Status:** projeto privado / em desenvolvimento.
+
+---
+
 ## Stack principal
 
-**Dados e backend**  
+### Dados e backend
+
 Python · pandas · NumPy · SQL · APIs · CSV · Parquet
 
-**Dashboards e visualização**  
+### Dashboards e visualização
+
 Streamlit · Plotly · Matplotlib · indicadores analíticos
 
-**Automação**  
+### Automação
+
 GitHub Actions · webhooks · scraping responsável · automação editorial · pipelines
 
-**Produto e web**  
+### Produto e web
+
 Next.js · Vercel · integração com APIs · prototipagem SaaS · produtos digitais
 
-**Pesquisa aplicada**  
+### Pesquisa aplicada
+
 dados públicos · metodologia científica · reprodutibilidade · DOI · documentação técnica
 
 ---
 
 ## O que meus projetos demonstram
 
-- Capacidade de transformar problemas reais em sistemas funcionais
-- Domínio de dados públicos e automação com Python
-- Construção de dashboards e observatórios digitais
-- Integração entre pesquisa, tecnologia, comunicação e produto
-- Visão estratégica para criar soluções úteis, documentadas e escaláveis
+* Capacidade de transformar problemas reais em sistemas funcionais
+* Domínio de dados públicos e automação com Python
+* Construção de dashboards e observatórios digitais
+* Integração entre pesquisa, tecnologia, comunicação e produto
+* Visão estratégica para criar soluções úteis, documentadas e escaláveis
 
 ---
 
 ## Contato
 
-- GitHub: [@brauliorrs](https://github.com/brauliorrs)
-- E-mail: brauliorrs@gmail.com
+* GitHub: [@brauliorrs](https://github.com/brauliorrs)
+* E-mail: [brauliorrs@gmail.com](mailto:brauliorrs@gmail.com)
