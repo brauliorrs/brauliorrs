@@ -20,7 +20,7 @@ Minha atuação combina tecnologia, comunicação, análise de dados e pesquisa 
 
 ## Projetos principais
 
-### OSC Financiamento Brasil
+### [OSC Financiamento Brasil](https://github.com/brauliorrs/osc-financiamento-brasil)
 
 Pipeline e dashboard para análise do financiamento das Organizações da Sociedade Civil no Brasil.
 
@@ -30,7 +30,7 @@ O projeto integra bases públicas, organiza indicadores territoriais e temático
 
 ---
 
-### Memória Audiovisual em Rede
+### [Memória Audiovisual em Rede](https://github.com/brauliorrs/memoria-audiovisual-rede)
 
 Observatório digital para mapear e analisar a presença pública de acervos audiovisuais em plataformas, arquivos e agregadores digitais.
 
@@ -40,7 +40,7 @@ O projeto conecta comunicação, memória, patrimônio audiovisual, circulação
 
 ---
 
-### Observatório Educacional da Paraíba
+### [Observatório Educacional da Paraíba](https://github.com/brauliorrs/observatorio-educacional-paraiba)
 
 Projeto para análise da demanda por ensino superior na Paraíba a partir de dados do SiSU, com foco em municípios com presença do IFPB.
 
@@ -50,33 +50,13 @@ A proposta apoia estudos sobre interiorização, mobilidade educacional, aderên
 
 ---
 
-### Fomenta Pesquisa
+### [Fomenta Pesquisa](https://github.com/brauliorrs/fomenta-pesquisa)
 
 Sistema de monitoramento automatizado de editais, bolsas e chamadas de pesquisa.
 
 O projeto coleta oportunidades em fontes públicas, organiza dados, gera fila editorial e apoia fluxos de publicação em redes sociais.
 
 **Tecnologias:** Python, GitHub Actions, automação editorial, APIs, geração de cards e publicação assistida.
-
----
-
-## Projetos de produto
-
-### Tripset
-
-Plataforma de turismo cinematográfico que conecta filmes, séries e destinos reais.
-
-O projeto combina curadoria audiovisual, dados de obras, destinos turísticos, links afiliados e automação de conteúdo.
-
----
-
-### Submeta Aí
-
-Produto em desenvolvimento para apoiar pesquisadores na submissão de artigos científicos.
-
-A proposta envolve análise de aderência a periódicos, leitura de diretrizes editoriais, avaliação de escopo e identificação de melhorias antes da submissão.
-
----
 
 ## Stack principal
 
