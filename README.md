@@ -6,6 +6,7 @@ Desenvolvo soluções que transformam dados públicos, informações dispersas e
 
 Minha atuação combina tecnologia, comunicação, análise de dados e pesquisa aplicada. Trabalho com pipelines em Python, dashboards analíticos, automações, integração de APIs e produtos digitais orientados por dados.
 
+Construo observatórios, pipelines e produtos digitais que transformam dados públicos em inteligência aplicada para pesquisa, gestão e comunicação.
 ---
 
 ## O que eu construo
