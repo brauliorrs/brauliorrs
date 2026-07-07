@@ -1,7 +1,3 @@
-Usei como base o currículo Lattes que você enviou, especialmente a formação acadêmica, a graduação tecnológica em Análise e Desenvolvimento de Sistemas e os cursos complementares de programação registrados nele. 
-
-Segue a **versão final consolidada**:
-
 # Bráulio Roberto Rangel da Silva
 
 **Python · Dados públicos · Automação · Observatórios digitais · Produtos com IA · Comunicação e Pesquisa Aplicada**
