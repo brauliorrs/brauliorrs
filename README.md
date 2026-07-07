@@ -7,6 +7,7 @@ Desenvolvo soluções que transformam dados públicos, informações dispersas e
 Minha atuação combina tecnologia, comunicação, análise de dados e pesquisa aplicada. Trabalho com pipelines em Python, dashboards analíticos, automações, integração de APIs e produtos digitais orientados por dados.
 
 Construo observatórios, pipelines e produtos digitais que transformam dados públicos em inteligência aplicada para pesquisa, gestão e comunicação.
+
 ---
 
 ## O que eu construo
@@ -63,23 +64,27 @@ O projeto coleta oportunidades em fontes públicas, organiza dados, gera fila ed
 
 ## Projetos de produto
 
-### Tripset
+### [Tripset — Case Study](https://github.com/brauliorrs/tripset-case-study)
 
 Plataforma de turismo cinematográfico que conecta filmes, séries e destinos reais.
 
-O projeto combina curadoria audiovisual, dados de obras, destinos turísticos, links afiliados e automação de conteúdo.
+O projeto combina curadoria audiovisual, dados de obras, destinos turísticos, links afiliados, SEO e automação futura de conteúdo.
 
-**Status:** projeto privado / em desenvolvimento.
+**Tecnologias e competências:** Next.js, Vercel, TypeScript, APIs externas, produto digital, travel tech, afiliados e curadoria editorial.
+
+**Status:** produto privado em desenvolvimento; case público documentado sem exposição do código-fonte.
 
 ---
 
-### Submeta Aí
+### [Submeta Aí — Case Study](https://github.com/brauliorrs/submeta-ai-case-study)
 
-Produto em desenvolvimento para apoiar pesquisadores na submissão de artigos científicos.
+Produto com IA para apoiar pesquisadores antes da submissão de artigos científicos.
 
-A proposta envolve análise de aderência a periódicos, leitura de diretrizes editoriais, avaliação de escopo e identificação de melhorias antes da submissão.
+A proposta envolve análise de aderência a periódicos, leitura de diretrizes editoriais, avaliação de escopo, padrões de publicação e recomendações de melhoria antes da submissão.
 
-**Status:** projeto privado / em desenvolvimento.
+**Tecnologias e competências:** IA aplicada, SaaS acadêmico, APIs, análise editorial, modelo freemium, privacidade e produto digital.
+
+**Status:** produto privado em desenvolvimento; case público documentado sem exposição do código-fonte.
 
 ---
 
