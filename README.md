@@ -9,7 +9,7 @@ Minha atuação combina tecnologia, comunicação, análise de dados e pesquisa 
 Construo observatórios, pipelines e produtos digitais que transformam dados públicos em inteligência aplicada para pesquisa, gestão e comunicação.
 
 ---
-
+📄 [Currículo estratégico](./CURRICULO.md)
 ## O que eu construo
 
 * Pipelines para coleta, tratamento e integração de dados públicos
